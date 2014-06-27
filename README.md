@@ -3,6 +3,8 @@ bootstrap3-steps
 
 Create bootstrap style steps
 
+![demo](https://raw.githubusercontent.com/breinz/bootstrap3-steps/master/demo.jpg)
+
 Use
 ===
 
@@ -19,5 +21,3 @@ Use
 	</li>
 </ul>
 ```
-
-![demo](https://raw.githubusercontent.com/breinz/bootstrap3-steps/master/demo.jpg)
