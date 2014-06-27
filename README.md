@@ -19,3 +19,5 @@ Use
 	</li>
 </ul>
 ```
+
+![demo](https://raw.githubusercontent.com/breinz/bootstrap3-steps/master/demo.jpg)
